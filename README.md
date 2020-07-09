@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Github page!
+
+Here's a gif:\n
+
+![mind_blown](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **bterone/bterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
