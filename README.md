@@ -1,6 +1,6 @@
 ### Welcome to my Github page!
 
-Here's a gif:\n
+Here's a gif:
 
 ![mind_blown](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
