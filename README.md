@@ -4,11 +4,11 @@ Here's a gif:
 
 ![mind_blown](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bterone&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=bterone&show_icons=true&theme=swift&count_private=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bterone&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bterone&theme=swift&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bterone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bterone&theme=swift&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **bterone/bterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
